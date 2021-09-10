@@ -37,11 +37,11 @@ Henry’s Grocery, currently only stocks four items and has two promotions. Thes
        - Expected total cost = 1.97.
           
 ## Hints
- - This is an opportunity for you to show _all_ of your software engineering skills.
+ - This is an opportunity for you to show _all_ of your [software engineering](https://en.wikipedia.org/wiki/Software_engineering) skills.
  - Develop using the agile methodology.
  - Think about code metrics.
  -	Please try to keep it simple.
- -	We expect it will take no more than 2 to 3 hours of your time. Good luck!
+ -	We expect you to spend no more than 2 to 3 hours of your time, so don't feel you need to complete it. Good luck!
 
 ## Tooling
 You must use:
