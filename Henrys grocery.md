@@ -3,7 +3,7 @@ A local shop, Henry’s Grocery, has asked you to author an IT solution for them
 
 Create a fork and share with me.
 
-Henry’s Grocery, currently only stocks four items and has two promotions. These are as follows:
+Henry’s Grocery, currently only stocks four items and has two offers. These are as follows:
 
   - _Stock Items_
         
