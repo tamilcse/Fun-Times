@@ -1,7 +1,7 @@
 ## Task
 A local shop, Henry’s Grocery, has asked you to author an IT solution for them to price up a basket of shopping for their customers.
 
-Create a fork and share with me only as we don't want other copying you excellent work.
+Create a fork and share with me.
 
 Henry’s Grocery, currently only stocks four items and has two promotions. These are as follows:
 
@@ -40,8 +40,9 @@ Henry’s Grocery, currently only stocks four items and has two promotions. Thes
  - This is an opportunity for you to show _all_ of your [software engineering](https://en.wikipedia.org/wiki/Software_engineering) skills.
  - Develop using the agile methodology.
  - Think about code metrics.
- -	Please try to keep it simple.
- -	We expect you to spend no more than 2 to 3 hours of your time, so don't feel you need to complete it. Good luck!
+ - Please try to keep it simple.
+ - We expect you to spend no more than 2 to 3 hours of your time, so don't feel you need to complete it. Good luck!
+ - How would you enhance your solution so that the store own could add and remove: products; or offers?
 
 ## Tooling
 You must use:
